@@ -1,5 +1,6 @@
 # Eaglercraft
 ## Play
+To Play Offline, Download The .html Files Above
 
 <p align="left">
   <a href="https://eaglercraft1-8.github.io">
