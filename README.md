@@ -1,7 +1,40 @@
 # Eaglercraft
 ## Play
-To Play Offline, Download The .html Files Above
 
+> Download Edition
+<p align="left">
+  <a href="https://github.com/dogbone-byte/eaglebone/blob/main/1.8.html">
+    <kbd> <br> Version 1.8 <br> </kbd>
+  </a>
+</p> 
+
+<p align="left">
+  <a href="https://github.com/dogbone-byte/eaglebone/blob/main/1.8%20Wasm.html">
+    <kbd> <br> Version 1.8 WASM <br> </kbd>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/dogbone-byte/eaglebone/blob/main/1.12.2.html">
+    <kbd> <br> Version 1.12.2 <br> </kbd>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/dogbone-byte/eaglebone/blob/main/1.12.2%20Wasm.html">
+    <kbd> <br> Version 1.12.2 WASM <br> </kbd>
+  </a>
+</p>
+
+> Offline Edition
+
+<p align="left">
+  <a href="https://github.com/dogbone-byte/eaglebone/blob/main/Offline.html">
+    <kbd> <br> Version 1.8 Offline <br> </kbd>
+  </a>
+</p>
+
+> Browser Edition
 <p align="left">
   <a href="https://eaglercraft1-8.github.io">
     <kbd> <br> Version 1.8 <br> </kbd>
