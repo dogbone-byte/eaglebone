@@ -58,6 +58,13 @@
 3. Click Connect to Server
 4. Paste the Server Link
 
+**Or**
+
+1. Open Multiplayer
+2. Click Add Server
+3. Change Server Name To Anything
+4. Paste the Server Link into Server Adress
+
 > To Host. `Version 1.8 Only`
 1. Click Multiplayer Setup
 2. Follow Steps
